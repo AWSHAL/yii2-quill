@@ -1,5 +1,5 @@
 {
-  "name": "bizley/quill",
+  "name": "awshal/quill",
   "description": "Quill editor implementation for Yii 2.",
   "type": "yii2-extension",
   "keywords": ["yii2","quill","wysiwyg","widget","editor","katex","highlight.js"],
@@ -11,7 +11,7 @@
     }
   ],
   "support": {
-    "source": "https://github.com/bizley/yii2-quill"
+    "source": "https://github.com/awshal/yii2-quill"
   },
   "require": {
     "php": ">=7.1",
